@@ -1,0 +1,28 @@
+MAIN MENU TITLE - (111,11) 419x107
+	new-game (182,184) 277x53
+	options (214,244) 214x53
+	hiscore (216,304) 209x53
+	exit (264,364) 114x53
+	help (4,440) 255x38
+
+NEW GAME TITLE - (32,12) 579,105
+	one-player (202,183) 237x54
+	two-player (180,243) 282x54
+	back - (250,304) 142x53
+
+OPTIONS TITLE - (107,11) 427x107
+	particles - (375,56) 135x183
+	music - (188,244) 266x53
+	controls - (190,304) 262x53
+	back - (250,363) 142x53
+
+INGAME
+	one-player-top (4,1) 633x46
+	one-player-bottom (7,434) 620x40
+	two-player-top (0,0) 639x47
+	two-player-bottom (3,434) 466x43
+
+ENTER HI SCORE TITLE - (75,39) 490x411
+	one-player (72,220) 495x78
+	player-one (141,210) 356x98
+	player-two (ditto)
